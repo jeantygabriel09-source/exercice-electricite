@@ -93,3 +93,4 @@ with st.expander("Voir la conclusion générale de l'exercice"):
     **Conclusion :** 
     D'après l'analyse des relevés sur les deux ans, la consommation électrique est fortement influencée par les variations climatiques et les heures de courant.
     """)
+    #hello
